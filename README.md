@@ -19,9 +19,9 @@ Lesson2
   - [ ]  <a href="http://developer.android.com/design/index.html">Android guideline</a> 
   - [ ]  <a href="http://www.theverge.com/2012/1/12/2703021/android-matias-duarte-live-special-announcement">Interview with Matias Duarte</a>
   - [ ]  <a href="https://dl.dropbox.com/u/33173295/LifecycleExplorer.rar">LifeCycleExplorer - протестировать методы жизненного цикла</a> 
-  - [ ]  <a href="http://www.w3schools.com/xml/xml_namespaces.asp">xmlns</a>
-  - [ ]  <a href="http://en.wikipedia.org/wiki/XML_namespace">xmlns</a>
-  - [ ]  <a href="http://www.vbnet.ru/articles/showarticle.aspx?id=146">xmlns</a>
+  - [ ]  <a href="http://www.w3schools.com/xml/xml_namespaces.asp">1.xmlns</a>
+  - [ ]  <a href="http://en.wikipedia.org/wiki/XML_namespace">2.xmlns</a>
+  - [ ]  <a href="http://www.vbnet.ru/articles/showarticle.aspx?id=146">3.xmlns</a>
   - [ ]  <a href="http://habrahabr.ru/post/60317/">сериализация в java</a>
   - [ ]  <a href="https://dl.dropbox.com/u/33173295/DealDroid.rar">DealDroid запустить </a>
   - [ ]  <a href=""http://developer.android.com/reference/android/app/Application.html
