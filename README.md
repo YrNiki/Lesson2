@@ -1,6 +1,6 @@
 Lesson2
 =======
-- ### Ход выполнения<a href="https://github.com/YrNiki/Lesson1/issues/2"> /ссылка/</a>
+- ### Ход выполнения<a href="https://github.com/YrNiki/Lesson2/issues/1"> /ссылка/</a>
 <p>
  - [ ] <a href="https://docs.google.com/file/d/0Bz6ipMTqmWaqel9ORzBHNlNwdFk/edit">Просмотр видео семинара</a> 
  - [ ] <a href="https://www.dropbox.com/s/3zt4khg8mg4pc7s/android_lesson2_februrary_methodics_2013.rar">Методичка </a>
