@@ -3,12 +3,12 @@ Lesson2
 
 - ### Ход выполнения<a href="https://github.com/YrNiki/Lesson2/issues/1"> /ссылка/</a>
 <p>
-- [ ] <a href="https://docs.google.com/file/d/0Bz6ipMTqmWaqel9ORzBHNlNwdFk/edit">Просмотр видео семинара</a> 
-- [x] <a href="https://www.dropbox.com/s/3zt4khg8mg4pc7s/android_lesson2_februrary_methodics_2013.rar">Методичка </a>
-- [ ] Исправить ошибку в проекте <a href="https://drive.google.com/file/d/0Bz6ipMTqmWaqWG5IMmYwUmxKX1k/edit?usp=sharing">Hello World </a>
-- [x] WebView подгрузка локальных html страниц (переименование папки)
-- [ ] Первая версия bash.im viewer - бездна, случайные, лучшие <a href="https://www.dropbox.com/sh/oqs1ps8jj3elh6s/oSrwylc4fC">Курсовая работа</a>
-- [ ] "Удиви меня" - используем по максимуму все что изучили
+ - [ ] <a href="https://docs.google.com/file/d/0Bz6ipMTqmWaqel9ORzBHNlNwdFk/edit">Просмотр видео семинара</a> 
+ - [x] <a href="https://www.dropbox.com/s/3zt4khg8mg4pc7s/android_lesson2_februrary_methodics_2013.rar">Методичка </a>
+ - [ ] Исправить ошибку в проекте <a href="https://drive.google.com/file/d/0Bz6ipMTqmWaqWG5IMmYwUmxKX1k/edit?usp=sharing">Hello World </a>
+ - [x] WebView подгрузка локальных html страниц (переименование папки)
+ - [ ] Первая версия bash.im viewer - бездна, случайные, лучшие <a href="https://www.dropbox.com/sh/oqs1ps8jj3elh6s/oSrwylc4fC">Курсовая работа</a>
+ - [ ] "Удиви меня" - используем по максимуму все что изучили
 
 - ### Домашнее чтение, видео:
   - [ ] <a href="https://docs.google.com/file/d/0Bz6ipMTqmWaqel9ORzBHNlNwdFk/edit">Видео Семинар</a>
