@@ -13,7 +13,7 @@ Lesson2
 - ### Домашнее чтение, видео:
   - [x] <a href="https://docs.google.com/file/d/0Bz6ipMTqmWaqel9ORzBHNlNwdFk/edit">Видео Семинар</a>
   - [x] <a href="https://www.dropbox.com/s/3zt4khg8mg4pc7s/android_lesson2_februrary_methodics_2013.rar">Методичка</a>
-  - [ ]  <a href="http://devcolibri.com/3479">Пример с анимацией и каталогом anim</a>
+  - [x]  <a href="http://devcolibri.com/3479">Пример с анимацией и каталогом anim</a>
   - [ ] http://developer.android.com/guide/components/tasks-and-back-stack.html
   - [ ] https://developer.android.com/guide/topics/resources/providing-resources.html
   - [ ]  <a href="http://developer.android.com/design/index.html">Android guideline</a> 
