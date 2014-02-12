@@ -7,7 +7,7 @@ Lesson2
  - [x] <a href="https://www.dropbox.com/s/3zt4khg8mg4pc7s/android_lesson2_februrary_methodics_2013.rar">Методичка </a>
  - [ ] Исправить ошибку в проекте <a href="https://drive.google.com/file/d/0Bz6ipMTqmWaqWG5IMmYwUmxKX1k/edit?usp=sharing">Hello World </a>
  - [x] WebView подгрузка локальных html страниц (переименование папки)
- - [ ] Первая версия bash.im viewer - бездна, случайные, лучшие <a href="https://www.dropbox.com/sh/oqs1ps8jj3elh6s/oSrwylc4fC">Курсовая работа</a>
+ - [ ] Первая версия bash.im viewer - отдельные вкладки для: бездна, случайные, лучшие <a href="https://www.dropbox.com/sh/oqs1ps8jj3elh6s/oSrwylc4fC">Курсовая работа</a>
  - [ ] "Удиви меня" - используем по максимуму все что изучили
 
 - ### Домашнее чтение, видео:
